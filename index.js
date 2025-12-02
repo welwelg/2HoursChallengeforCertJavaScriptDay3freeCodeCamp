@@ -34,3 +34,4 @@ console.log(newSentence);
 
 const repeatedLoves = "love ".repeat(3).trimEnd();
 console.log(newSentence);
+
